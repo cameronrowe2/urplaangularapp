@@ -1,3 +1,42 @@
 .heroes {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 96px;
 
+  li {
+    background: rgb(238, 238, 238);
+    padding: 1em;
+    margin-right: 10px;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+
+    p {
+      margin: 0;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    p.name {
+      font-weight: bold;
+      font-size: 1.2rem;
+      text-align: center;
+      color: #0000ff9e;
+    }
+
+    img {
+      width: 200px;
+      height: 180px;
+      overflow: hidden;
+      margin: auto;
+      display: block;
+    }
+  }
 }

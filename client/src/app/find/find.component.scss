@@ -1,3 +1,27 @@
 .hero {
+  margin-top: 96px;
 
+  p.name {
+    text-align: center;
+  }
+
+  img {
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    margin: auto;
+    display: block;
+  }
+
+  .bio {
+    text-align: center;
+  }
+}
+
+.back {
+  text-decoration: none;
+  background-color: #0000ff9e;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
 }

@@ -1,1 +1,290 @@
-[]
+[
+  {
+    "id": "4tngsnguk71lg7wc",
+    "name": "CAPTAIN MARVEL",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_ons_crd_04.jpg",
+    "bio": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races."
+  },
+  {
+    "id": "4tngsnguk71lg7wd",
+    "name": "THANOS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/019tha_ons_crd_03.jpg",
+    "bio": "The Mad Titan Thanos quests across the universe in search of the Infinity Stones, intending to use their limitless power for shocking purposes."
+  },
+  {
+    "id": "4tngsnguk71lg7we",
+    "name": "BLACK PANTHER",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_ons_crd_02.jpg",
+    "bio": "T’Challa is the king of the secretive and highly advanced African nation of Wakanda - as well as the powerful warrior known as the Black Panther."
+  },
+  {
+    "id": "4tngsnguk71lg7wf",
+    "name": "YON-ROGG",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/272sfc_ons_crd_02_0.jpg",
+    "bio": "As the leader of a squad of elite Kree soldiers, Yon-Rogg takes newly-recruited Carol Danvers under his wing and trains her."
+  },
+  {
+    "id": "4tngsnguk71lg7wg",
+    "name": "SPIDER-MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_ons_crd_02.jpg",
+    "bio": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles."
+  },
+  {
+    "id": "4tngsnguk71lg7wh",
+    "name": "GOOSE THE CAT",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/247gse_ons_crd_01.jpg",
+    "bio": "The friendliest and furriest resident of Project Pegasus, Goose is the affectionate tabby cat that joins Carol Danvers and Nick Fury on their adventure."
+  },
+  {
+    "id": "4tngsnguk71lg7wi",
+    "name": "IRON MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_crd_03.jpg",
+    "bio": "Genius. Billionaire. Playboy. Philanthropist. Tony Stark's confidence is only matched by his high-flying abilities as the hero called Iron Man."
+  },
+  {
+    "id": "4tngsnguk71lg7wj",
+    "name": "CAPTAIN AMERICA",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_ons_crd_03.jpg",
+    "bio": "Recipient of the Super-Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world’s mightiest heroes and the leader of the Avengers."
+  },
+  {
+    "id": "4tngsnguk71lg7wk",
+    "name": "BLACK WIDOW",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_ons_crd_03.jpg",
+    "bio": "Despite super spy Natasha Romanoff’s checkered past, she’s become one of S.H.I.E.L.D.’s most deadly assassins and a frequent member of the Avengers."
+  },
+  {
+    "id": "4tngsnguk71lg7wl",
+    "name": "HULK",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/006hbb_ons_crd_03.jpg",
+    "bio": "Dr. Bruce Banner lives a life caught between the soft-spoken scientist he’s always been and the uncontrollable green monster powered by his rage."
+  },
+  {
+    "id": "4tngsnguk71lg7wm",
+    "name": "HAWKEYE",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_ons_crd_02.jpg",
+    "bio": "A master marksman and longtime friend of Black Widow, Clint Barton serves as the Avengers’ amazing archer."
+  },
+  {
+    "id": "4tngsnguk71lg7wn",
+    "name": "THOR",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_ons_crd_03.jpg",
+    "bio": "The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alike."
+  },
+  {
+    "id": "4tngsnguk71lg7wo",
+    "name": "3-D MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/3dman442.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wp",
+    "name": "3-D MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/triathlon.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wq",
+    "name": "8-BALL",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/8-ball.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wr",
+    "name": "A",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/a_head.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7ws",
+    "name": "AARDWOLF",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/mikefichera--aardwolf-main.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wt",
+    "name": "ABDUL ALHAZRED",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/227abd_com_crd_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wu",
+    "name": "ABERRATION",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/aberration.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wv",
+    "name": "ABIGAIL BRAND",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ohitsme--brand_2.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7ww",
+    "name": "ABOMINATION",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/acotilletta2--abomination_hd.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wx",
+    "name": "ABRAXAS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/abraxas442px.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wy",
+    "name": "ABSORBING MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/absorbingman_head.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7wz",
+    "name": "ABYSS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/abyss442.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x0",
+    "name": "ABYSS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/abyss_pic.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x1",
+    "name": "ABYSS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/228aby_com_crd_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x2",
+    "name": "ACE",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/229ace_com_crd_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x3",
+    "name": "ACHEBE",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/achebe.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x4",
+    "name": "ACROBAT",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/acrobat_(carl_zante).jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x5",
+    "name": "ACROYEAR",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/230acy_com_crd_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x6",
+    "name": "ADAM DESTINE",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/adamdestine.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x7",
+    "name": "ADAM II",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/231ad2_com_crd_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x8",
+    "name": "ADAM MANN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/acotilletta2--adam_mann.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7x9",
+    "name": "ADAPTOID",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/232adp_com_crd_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xa",
+    "name": "ADAPTOID",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/adaptoids.jpeg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xb",
+    "name": "ADMINISTRATOR",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/administrator442.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xc",
+    "name": "ADVERSARY",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/adversary_head.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xd",
+    "name": "AEGIS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/233aeg_com_crd_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xe",
+    "name": "AEGIS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/aegis-headshot.gif",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xf",
+    "name": "AERO",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/428all_com_crd_01.jpg",
+    "bio": "With the power of the wind at her command, Lei Ling is the master of the sky and the protector of Shanghai!"
+  },
+  {
+    "id": "4tngsnguk71lg7xg",
+    "name": "AERO",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/293aer_com_crd_02.jpg",
+    "bio": "Mutant Melody Guthrie manifests the power of flight and studies at the Xavier Institute until the fateful M-Day that depowered her and many other mutants."
+  },
+  {
+    "id": "4tngsnguk71lg7xh",
+    "name": "AFTERSHOCK",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/aftershock.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xi",
+    "name": "AGATHA HARKNESS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agatha.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xj",
+    "name": "AGED GENGHIS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agegen.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xk",
+    "name": "AGENT",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agent.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xl",
+    "name": "AGENT X",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agentx01.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xm",
+    "name": "AGENT ZERO",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agent1.jpg",
+    "bio": ""
+  },
+  {
+    "id": "4tngsnguk71lg7xn",
+    "name": "AGGAMON",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/aggamon.jpg",
+    "bio": ""
+  }
+]

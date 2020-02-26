@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "codeChallenge",
+    "skipInstall": false,
+    "directory": ".",
+    "clientProject": "codeChallenge",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}

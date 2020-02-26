@@ -1,1 +1,8 @@
-
+<ul class="heroes" *ngIf="heroes">
+  <li *ngFor="let hero of heroes">
+    <a class="link" routerLink="/heroes/{{ hero.id }}"
+      ><p class="name">{{ hero.name }}</p>
+      <img class="photo" src="{{ hero.photo }}" />
+    </a>
+  </li>
+</ul>

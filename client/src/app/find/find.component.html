@@ -1,1 +1,6 @@
-
+<div class="hero" *ngIf="character">
+  <p class="name">{{ character.name }}</p>
+  <img class="photo" src="{{ character.photo }}" />
+  <p class="bio">{{ character.bio }}</p>
+</div>
+<a class="back" routerLink="/heroes">Back</a>
